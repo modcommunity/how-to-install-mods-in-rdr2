@@ -150,4 +150,4 @@ By this point you should have an understanding on how to download and install mo
 
 https://forum.moddingcommunity.com/t/quick-tutorial-steam-deck-getting-script-hook-working-on-rdr2/108
 
-This guide is a *work-in-progress* and may be updated over time. If you have suggestions or ideas for improvement, we'd love to hear your feedback! Please feel free to reply to this topic!
+This guide is a *work-in-progress* and may be updated over time. If you have suggestions or ideas for improvement, we'd love to hear your feedback! Please feel free to reply to [this](https://forum.moddingcommunity.com/t/how-to-install-mods-in-rdr2/204) topic!
