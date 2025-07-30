@@ -1,6 +1,14 @@
+<div align="center">
+
+![Banner](https://github.com/modcommunity/how-to-install-mods-in-rdr2/raw/main/images/banner.jpg)
+
+</div>
+
 A guide on how to install **mods** in **Red Dead Redemption 2** (RDR2) on PC, including instructions on how to use a popular mod loader, [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) (LML)! While focused on **Windows**, this guide includes instructions and tips that should be compatible with other operating systems like Linux.
 
 [RDR2](https://www.rockstargames.com/reddeadredemption2) is an open-world action-adventure game set in a richly detailed late-1800s Wild West, where players follow Arthur Morgan's journey as an outlaw navigating a world of loyalty, survival, and moral dilemmas. Modding RDR2 expands the game's possibilities by introducing new content, improving graphics, enhancing realism, and more which results in a unique gameplay experience!
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://forum.moddingcommunity.com/t/how-to-install-mods-in-rdr2-2025/204)
 
 ## Table Of Contents
 * [Requirements](#requirements)
@@ -115,13 +123,13 @@ Head to the `ModManager` folder from the extracted contents and launch the `ModM
 
 After launching the program, you should see something like below.
 
-![Mod Manager UI](./images/lml_mm_main.png)
+![Mod Manager UI](https://github.com/modcommunity/how-to-install-mods-in-rdr2/raw/main/images/lml_mm_main.png)
 
 You will need to configure your game folder by clicking the `...` button in the top-right corner next to the **Game Folder** box. Select your RDR2's main game folder from the File Explorer.
 
 Now save the configuration by clicking the save button located in the middle-*ish* of the screen (this can be hard to miss for some!).
 
-![LML Configure](./images/lml_mm_config.png)
+![LML Configure](https://github.com/modcommunity/how-to-install-mods-in-rdr2/raw/main/images/lml_mm_config.png)
 
 **WARNING** - You must keep the Mod Manager open while downloading and installing mods!
 
@@ -132,13 +140,13 @@ If the mod is supported by LML, you will see a valid **Download with LML** butto
 
 Next, click the **Download with LML** button and this will attempt to communicate with the LML Mod Manager to download and install the mod.
 
-![LML Web Download](./images/lml_web_dl.png)
+![LML Web Download](https://github.com/modcommunity/how-to-install-mods-in-rdr2/raw/main/images/lml_web_dl.png)
 
 **WARNING** - You may need to use a different web browser if your current web browser is not supported. [Firefox](https://www.mozilla.org/en-US/firefox/) is the web browser I used in this guide.
 
 Assuming the download and installation went well, the mod should now be installed! You can confirm this by navigating to the **Mods** tab within the Mod Manager as seen below.
 
-![LML Mod Installed](./images/lml_mod_installed.png)
+![LML Mod Installed](https://github.com/modcommunity/how-to-install-mods-in-rdr2/raw/main/images/lml_mod_installed.png)
 
 Finally, launch RDR2 if you haven't already and enjoy the new content! If the mod(s) you've attempted to install aren't working, refer back to the mod page to check if there additional configuration is required. If you're still experiencing issues, reach out to the mod creator!
 
@@ -150,4 +158,6 @@ By this point you should have an understanding on how to download and install mo
 
 https://forum.moddingcommunity.com/t/quick-tutorial-steam-deck-getting-script-hook-working-on-rdr2/108
 
-This guide is a *work-in-progress* and may be updated over time. If you have suggestions or ideas for improvement, we'd love to hear your feedback! Please feel free to reply to [this](https://forum.moddingcommunity.com/t/how-to-install-mods-in-rdr2/204) topic!
+If you have any questions or feedback regarding this guide, please reply to its forum topic [here](https://forum.moddingcommunity.com/t/how-to-install-mods-in-rdr2-2025/204)! This guide will be worked and improved on over time.
+
+Join our [Discord server](https://discord.moddingcommunity.com)!
