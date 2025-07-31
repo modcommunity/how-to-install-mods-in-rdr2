@@ -1,9 +1,3 @@
-<div align="center">
-
-![Banner](https://github.com/modcommunity/how-to-install-mods-in-rdr2/raw/main/images/banner.jpg)
-
-</div>
-
 A guide on how to install **mods** in **Red Dead Redemption 2** (RDR2) on PC, including instructions on how to use a popular mod loader, [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) (LML)! While focused on **Windows**, this guide includes instructions and tips that should be compatible with other operating systems like Linux.
 
 [RDR2](https://www.rockstargames.com/reddeadredemption2) is an open-world action-adventure game set in a richly detailed late-1800s Wild West, where players follow Arthur Morgan's journey as an outlaw navigating a world of loyalty, survival, and moral dilemmas. Modding RDR2 expands the game's possibilities by introducing new content, improving graphics, enhancing realism, and more which results in a unique gameplay experience!
