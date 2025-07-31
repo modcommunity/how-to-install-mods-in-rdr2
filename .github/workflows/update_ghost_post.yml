@@ -18,7 +18,6 @@ jobs:
 
     - uses: gamemann/ghost-post-update-action@v1.0.0
       with:
-        env_file: .dtua/.env
         ghost_api_url: ${{ secrets.GHOST_API_URL }}
         ghost_admin_api_key: ${{ secrets.GHOST_ADMIN_API_KEY }}
         ghost_post_id: ${{ secrets.GHOST_POST_ID }}
