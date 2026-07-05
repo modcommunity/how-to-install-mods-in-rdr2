@@ -2,7 +2,7 @@ A guide on how to install **mods** in **Red Dead Redemption 2** (RDR2) on PC, in
 
 [RDR2](https://www.rockstargames.com/reddeadredemption2) is an open-world action-adventure game set in a richly detailed late-1800s Wild West, where players follow Arthur Morgan's journey as an outlaw navigating a world of loyalty, survival, and moral dilemmas. Modding RDR2 expands the game's possibilities by introducing new content, improving graphics, enhancing realism, and more which results in a unique gameplay experience!
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-rdr2/)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://moddingcommunity.com/blog/how-to-install-mods-in-rdr2/)
 
 ## Table Of Contents
 * [Requirements](#requirements)
